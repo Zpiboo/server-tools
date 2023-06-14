@@ -1,0 +1,1 @@
+tellraw @a {"storage":"oneiric_tools:string","nbt":"output"}

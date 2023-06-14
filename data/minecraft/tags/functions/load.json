@@ -1,5 +1,6 @@
 {
     "values": [
-        "vst_sidebar:init"
+        "vst:sidebar/init",
+        "oneiric_tools:load"
     ]
 }
